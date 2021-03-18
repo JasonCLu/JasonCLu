@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JasonCLu
-- 👀 I’m interested in ... creating new things, putting pieces together, and making something useful.
+- 👀 I’m interested in ... "legos" (with or without instructions, does not matter)
 - 🌱 I’m currently learning ... embedded programming, raspberry pi, microcontrollers, cloud programming, automation, TDD and CI/CD/CT.
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... Linkedin is great place to reach me. Here's a link to my profile: linkedin.com/in/jason-lu-7b065579
